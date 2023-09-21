@@ -1,5 +1,5 @@
 .speech {
-    font-family: Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
     color: black;
 }
@@ -16,14 +16,14 @@
     background-color: lightblue;
     color: white;
 }
-.Mrs.Stockmann{
-    color:pink;
+.S{
+    color:green;
 }
 
-.Petra{
+.P{
     color:blue;
 }
 
-.Dr.Stockmann{
-    color:lavender;
+.D{
+    color:red;
 }
