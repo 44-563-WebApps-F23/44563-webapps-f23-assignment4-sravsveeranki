@@ -27,3 +27,23 @@
 .D{
     color:red;
 }
+
+.cast-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.cast-table th, .cast-table td {
+    border: 1px solid #3a26a9;
+    padding: 8px;
+    text-align: center;
+}
+
+.cast-table th {
+    background-color: #7ba7e0;
+}
+
+.cast-table tbody tr:nth-child(odd) {
+    background-color: #e39b9b;
+}
